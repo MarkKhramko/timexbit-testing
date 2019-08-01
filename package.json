@@ -1,0 +1,18 @@
+{
+  "name": "timexbit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "Mark Khramko",
+  "license": "unlicense",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
